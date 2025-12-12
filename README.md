@@ -12,6 +12,16 @@ A responsive, fast, and beautiful digital marketing portfolio built with HTML, C
 
 ---
 
+## 📸 Screenshots 
+
+<img src="images/screenshot1.png">
+<img src="images/screenshot2.png">
+<img src="images/screenshot4.png">
+<img src="images/screenshot3.png">
+
+
+---
+
 ## ⭐ Features
 
 * ✨ Elegant hero section with subtle parallax layers
@@ -88,4 +98,8 @@ If you want to contribute or suggest a tiny UX polish (I love micro-interactions
 * **Email:** [cortex@mail.com](mailto:cortex@mail.com)
 * **Available:** Remote — open to freelance & contract work
 
+## Team Members 
 
+* Aviral Dwivedi (E25B070624)
+* Sunny Pandey (E25B070885)
+* Akshat Kanwar (E25B070769)
