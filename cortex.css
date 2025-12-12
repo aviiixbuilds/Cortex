@@ -690,8 +690,24 @@ button:active {
     background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
     opacity: 0.1;
     transition: opacity var(--transition-normal);
+    
+    
+}
+#seo{
+    background-image: url(images/search\ engine\ optimization.jpg) ;
+    background-size: cover;
+    
 }
 
+#sm{
+    background-image: url(images/social\ media\ marketing.jpg);
+    background-size: cover;
+}
+
+#eo{
+    background-image: url(images/email\ automatino.jpg);
+    background-size: cover;
+}
 .project-card:hover .project-overlay {
     opacity: 0.2;
 }

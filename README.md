@@ -1,4 +1,4 @@
-"# Digital Marketing Portfolio - Cortex
+# Digital Marketing Portfolio - Cortex
 
 A modern, premium one-page portfolio website built with HTML, CSS, and JavaScript. Features 3D interactive elements, smooth animations, light/dark theme toggle, and progressive contact form functionality.
 
